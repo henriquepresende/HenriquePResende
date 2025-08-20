@@ -7,8 +7,6 @@
 
 -----
 
------
-
 <div align="center">
 <table>
 <tr>
@@ -40,8 +38,6 @@
 <i><b>Olá</b> :wave:, sou o <code>Henrique</code>, tenho 18 anos e estudo <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. :mortar_board:  
 Adoro programar e explorar novas tecnologias :computer:💡. Estou sempre aprendendo e me desafiando para evoluir na área de desenvolvimento de software. :muscle:</i>
 </div>
-
------
 
 -----
 
@@ -130,6 +126,39 @@ Adoro programar e explorar novas tecnologias :computer:💡. Estou sempre aprend
 </table>
 
 </div>
+</div>
+
+-----
+-----
+
+<div>
+<details>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Henrique's Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=1xqtxdahqlqtq380qs219tkrc" alt="Data Card for Spotify">
+</details>
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=1xqtxdahqlqtq380qs219tkrc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=1xqtxdahqlqtq380qs219tkrc&count=10"/>
+</td>
+<td>
+<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
+<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
 </div>
 
 -----
