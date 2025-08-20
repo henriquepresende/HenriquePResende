@@ -74,10 +74,6 @@ Adoro programar e explorar novas tecnologias :computer:💡. Estou sempre aprend
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=henriquepresende&theme=dark&layout=compact"/>
 </td>
 </tr>
-<tr>
- <td align="center"></td>
- <td align="center"></td>
-</tr> 
 </table>
 <table>
 <tr>
