@@ -162,4 +162,4 @@ Adoro programar e explorar novas tecnologias :computer:💡. Estou sempre aprend
 
 -----
 
-<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=henriquepresende"/>
+<img width="100" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=henriquepresende"/>
